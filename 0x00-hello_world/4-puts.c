@@ -1,12 +1,13 @@
 #include <stdio.h>
 /**
- * main - prints Programming is like building a multilingual
-puzzle, followed by a new line,
- * Return: 0.
+ * main - A program that is confermed with betty styl
+e
+ * Return : 0 (success)
  */
 int main(void)
 {
-puts("\"Programming is like building a multilingual puz
-zle"); 
-return (o);
-}	 
+	puts(*\*Programming is like building a multilingual puzz
+			le");
+	return (o);
+}
+
